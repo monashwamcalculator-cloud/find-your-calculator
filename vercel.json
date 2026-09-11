@@ -1,28 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*monash.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "monashwamcalculator.com"
-        }
-      ],
-      "destination": "/404",
-      "permanent": false
-    },
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "monashwamcalculator.com"
-        }
-      ],
-      "destination": "https://mycalculatorhub.pro/$1",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
