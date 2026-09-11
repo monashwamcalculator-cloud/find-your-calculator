@@ -2,6 +2,7 @@ import { lazy, Suspense, useEffect, type ReactElement } from 'react';
 import OneSignal from 'react-onesignal';
 import { useDarkMode } from './hooks/useDarkMode';
 import Navbar from './components/Navbar';
+import TopSchoolsBanner from './components/TopSchoolsBanner';
 import Footer from './components/Footer';
 import CookieConsent from './components/CookieConsent';
 import PageLoader from './components/PageLoader';
@@ -241,6 +242,7 @@ export default function App() {
         Skip to main content
       </a>
       <Navbar dark={dark} toggleDark={toggle} />
+      <TopSchoolsBanner />
       
       <main id="main-content" className="flex-1" tabIndex={-1}>
         {getPage(path)}
