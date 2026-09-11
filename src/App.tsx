@@ -104,7 +104,8 @@ const FuelCostCalculator = lazy(() => import('./pages/FuelCostCalculator'));
 const DateCalculator = lazy(() => import('./pages/DateCalculator'));
 const TimeDurationCalculator = lazy(() => import('./pages/TimeDurationCalculator'));
 const RandomNamePicker = lazy(() => import('./pages/RandomNamePicker'));
-
+const CitationGenerator = lazy(() => import('./pages/CitationGenerator'));
+const QRCodeGenerator = lazy(() => import('./pages/QRCodeGenerator'));
 function withSuspense(element: ReactElement) {
   return <Suspense fallback={<PageLoader />}>{element}</Suspense>;
 }
@@ -198,6 +199,8 @@ function getPage(path: string) {
   if (path === '/date-calculator') return withSuspense(<DateCalculator />);
   if (path === '/time-duration-calculator') return withSuspense(<TimeDurationCalculator />);
   if (path === '/random-name-picker') return withSuspense(<RandomNamePicker />);
+  if (path === '/citation-generator') return withSuspense(<CitationGenerator />);
+  if (path === '/qr-code-generator') return withSuspense(<QRCodeGenerator />);
   if (path === '/articles') return withSuspense(<Articles />);
   if (path.startsWith('/articles/category/')) {
     const categoryId = path.replace('/articles/category/', '');

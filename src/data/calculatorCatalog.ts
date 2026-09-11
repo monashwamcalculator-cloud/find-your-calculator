@@ -403,6 +403,11 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
         href: '/random-name-picker',
         title: 'Random Name Picker',
         description: 'Randomly select a name or item from a list.'
+      },
+      {
+        href: '/qr-code-generator',
+        title: 'QR Code Generator',
+        description: 'Instantly create scannable QR codes for links, text, Wi-Fi, or contact info.'
       }
     ]
   },
@@ -435,6 +440,11 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
         href: '/typing-time-estimator',
         title: 'Typing Time Estimator',
         description: 'Calculate the raw physical time needed to type an essay.'
+      },
+      {
+        href: '/citation-generator',
+        title: 'Citation Generator',
+        description: 'Generate APA, MLA, and Harvard citations instantly for your essays and assignments.'
       }
     ]
   },
