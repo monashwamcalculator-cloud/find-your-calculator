@@ -1,11 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/wam-to-gpa-calculator",
-      "destination": "https://www.mycalculatorhub.pro/wam-to-gpa-calculator",
-      "permanent": false
-    }
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
