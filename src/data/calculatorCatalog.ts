@@ -496,7 +496,22 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
       {
         href: '/youth-allowance-estimator',
         title: 'Youth Allowance Estimator',
-        description: 'Estimate your maximum Centrelink student payment rate.'
+        description: 'Estimate your maximum Centrelink Youth Allowance or Austudy fortnightly payment based on your age and living situation.'
+      },
+      {
+        href: '/sip-calculator',
+        title: 'SIP Calculator',
+        description: 'Calculate your mutual fund SIP returns online. Estimate total wealth and projected returns.'
+      },
+      {
+        href: '/emi-calculator',
+        title: 'EMI Calculator',
+        description: 'Calculate Equated Monthly Installments for Home, Car, or Personal loans effortlessly.'
+      },
+      {
+        href: '/gst-calculator',
+        title: 'GST Calculator',
+        description: 'Easily calculate Goods and Services Tax. Add or remove GST from your product price.'
       },
       {
         href: '/commute-vs-rent-calculator',

@@ -109,6 +109,9 @@ const CitationGenerator = lazy(() => import('./pages/CitationGenerator'));
 const QRCodeGenerator = lazy(() => import('./pages/QRCodeGenerator'));
 const CgpaToPercentage = lazy(() => import('./pages/CgpaToPercentage'));
 const TimeZoneConverter = lazy(() => import('./pages/TimeZoneConverter'));
+const SipCalculator = lazy(() => import('./pages/SipCalculator'));
+const EmiCalculator = lazy(() => import('./pages/EmiCalculator'));
+const GstCalculator = lazy(() => import('./pages/GstCalculator'));
 
 function withSuspense(element: ReactElement) {
   return <Suspense fallback={<PageLoader />}>{element}</Suspense>;
@@ -207,6 +210,9 @@ function getPage(path: string) {
   if (path === '/qr-code-generator') return withSuspense(<QRCodeGenerator />);
   if (path === '/cgpa-to-percentage-calculator') return withSuspense(<CgpaToPercentage />);
   if (path === '/time-zone-converter') return withSuspense(<TimeZoneConverter />);
+  if (path === '/sip-calculator') return withSuspense(<SipCalculator />);
+  if (path === '/emi-calculator') return withSuspense(<EmiCalculator />);
+  if (path === '/gst-calculator') return withSuspense(<GstCalculator />);
   if (path === '/articles') return withSuspense(<Articles />);
   if (path.startsWith('/articles/category/')) {
     const categoryId = path.replace('/articles/category/', '');
