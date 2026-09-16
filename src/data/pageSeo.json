@@ -1,7 +1,7 @@
 {
   "/about-us": {
     "title": "About Us | My Calculator Hub — Who We Are",
-    "description": "Independent WAM calculator site by Saahil: 91 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
+    "description": "Independent WAM calculator site by Saahil: 93 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
   },
   "/academic-standing-calculator": {
     "title": "Academic Standing & Risk Calculator - Uni Progress Rules",
@@ -29,7 +29,7 @@
   },
   "/about-author": {
     "title": "About Saahil | Author — My Calculator Hub",
-    "description": "Meet Saahil, founder and editor of My Calculator Hub — 91 free tools and 32 student guides on WAM, GPA, and Australian university life.",
+    "description": "Meet Saahil, founder and editor of My Calculator Hub — 93 free tools and 32 student guides on WAM, GPA, and Australian university life.",
     "ogImageAlt": "Saahil, creator of WAM Calculator"
   },
   "/binary-to-text-converter": {
@@ -41,12 +41,16 @@
     "description": "Calculate the half-life of your coffee or energy drink. Find out when you will crash and when it is safe to go to sleep."
   },
   "/calculators": {
-    "title": "All Uni Calculators — 91 Free WAM & GPA Tools (2026)",
-    "description": "Browse 91 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
+    "title": "All Uni Calculators — 93 Free WAM & GPA Tools (2026)",
+    "description": "Browse 93 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
   },
   "/cgpa-to-gpa-calculator": {
     "title": "CGPA to GPA Calculator - 10-Point & Uni 4.0 (2026)",
     "description": "Free CGPA to GPA calculator: convert 10-point CGPA to 4.0 GPA or confirm Uni cumulative GPA equals CGPA."
+  },
+  "/cgpa-to-percentage-calculator": {
+    "title": "CGPA to Percentage Calculator | Convert CGPA Instantly",
+    "description": "Free CGPA to percentage calculator. Easily convert your CBSE or university CGPA to percentage using the 9.5 multiplier or custom formulas."
   },
   "/cgpa-to-wam-calculator": {
     "title": "CGPA to WAM Calculator - Uni 4.0 Scale (2026)",
@@ -258,6 +262,10 @@
   "/text-case-converter": {
     "title": "Text Case Converter | UPPERCASE and Title Case Generator",
     "description": "Instantly convert text to uppercase, lowercase, Title Case, or Sentence case. A simple utility for essay formatting and titles."
+  },
+  "/time-zone-converter": {
+    "title": "Time Zone Converter | Compare Global Times Instantly",
+    "description": "Free online time zone converter. Quickly convert time between EST, PST, GMT, IST, AEST, and other global timezones for meetings and travel."
   },
   "/typing-time-estimator": {
     "title": "Typing Time Estimator | Words Per Minute Calculator",

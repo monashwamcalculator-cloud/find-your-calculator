@@ -92,7 +92,12 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
       {
         href: '/cgpa-to-wam-calculator',
         title: 'CGPA to WAM Calculator',
-        description: 'Convert cumulative 4.0 CGPA to WAM planning ranges.',
+        description: 'Convert your CGPA to WAM accurately using university-specific conversion scales.',
+      },
+      {
+        href: '/cgpa-to-percentage-calculator',
+        title: 'CGPA to Percentage Calculator',
+        description: 'Instantly convert your CGPA to a percentage format (default 9.5 multiplier).',
       },
       {
         href: '/gpa-to-percentage-calculator',
@@ -273,6 +278,11 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
         href: '/student-budget-calculator',
         title: 'Student Budget Calculator',
         description: 'Track your income, manage expenses, and see your net savings to manage your finances better.'
+      },
+      {
+        href: '/time-zone-converter',
+        title: 'Time Zone Converter',
+        description: 'Instantly convert times across global timezones (EST, PST, IST, AEST) for meetings and travel.'
       },
       {
         href: '/study-time-calculator',
