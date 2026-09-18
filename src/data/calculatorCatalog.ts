@@ -469,6 +469,11 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
     description: 'Calculators for rent, student loans, and university survival.',
     links: [
       {
+        href: '/love-calculator',
+        title: 'Love Calculator',
+        description: 'Test your match percentage online with our fun love test algorithm.'
+      },
+      {
         href: '/sharehouse-rent-splitter',
         title: 'Sharehouse Rent Splitter',
         description: 'Split rent fairly based on bedroom sizes and ensuites.'

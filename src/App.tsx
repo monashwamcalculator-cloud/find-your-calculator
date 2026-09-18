@@ -217,6 +217,7 @@ function getPage(path: string) {
   if (path === '/gst-calculator') return withSuspense(<GstCalculator />);
   if (path === '/ppf-calculator') return withSuspense(<PpfCalculator />);
   if (path === '/online-timer') return withSuspense(<OnlineTimer />);
+  if (path === '/love-calculator') return withSuspense(<LoveCalculator />);
   if (path === '/articles') return withSuspense(<Articles />);
   if (path.startsWith('/articles/category/')) {
     const categoryId = path.replace('/articles/category/', '');
