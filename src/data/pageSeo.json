@@ -1,7 +1,7 @@
 {
   "/about-us": {
     "title": "About Us | My Calculator Hub — Who We Are",
-    "description": "Independent WAM calculator site by Saahil: 93 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
+    "description": "Independent WAM calculator site by Saahil: 98 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
   },
   "/academic-standing-calculator": {
     "title": "Academic Standing & Risk Calculator - Uni Progress Rules",
@@ -29,7 +29,7 @@
   },
   "/about-author": {
     "title": "About Saahil | Author — My Calculator Hub",
-    "description": "Meet Saahil, founder and editor of My Calculator Hub — 93 free tools and 32 student guides on WAM, GPA, and Australian university life.",
+    "description": "Meet Saahil, founder and editor of My Calculator Hub — 98 free tools and 32 student guides on WAM, GPA, and Australian university life.",
     "ogImageAlt": "Saahil, creator of WAM Calculator"
   },
   "/binary-to-text-converter": {
@@ -41,8 +41,8 @@
     "description": "Calculate the half-life of your coffee or energy drink. Find out when you will crash and when it is safe to go to sleep."
   },
   "/calculators": {
-    "title": "All Uni Calculators — 93 Free WAM & GPA Tools (2026)",
-    "description": "Browse 93 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
+    "title": "All Uni Calculators — 98 Free WAM & GPA Tools (2026)",
+    "description": "Browse 98 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
   },
   "/cgpa-to-gpa-calculator": {
     "title": "CGPA to GPA Calculator - 10-Point & Uni 4.0 (2026)",
@@ -87,6 +87,10 @@
   "/disclaimer": {
     "title": "Disclaimer | My Calculator Hub",
     "description": "Read the My Calculator Hub disclaimer regarding academic accuracy and non-affiliation with the university."
+  },
+  "/emi-calculator": {
+    "title": "EMI Calculator | Personal, Home & Car Loan EMI",
+    "description": "Free EMI Calculator to calculate your monthly installment for home loans, car loans, and personal loans. Instantly check interest breakdown."
   },
   "/essay-word-count-allocator": {
     "title": "Essay Word Count Allocator | Structure Your Writing",
@@ -142,6 +146,10 @@
     "title": "Grade Average Calculator - Simple & Weighted Mean (Uni 2026)",
     "description": "Free grade average calculator: find the simple mean of your marks or a credit-weighted average with Uni credit points."
   },
+  "/gst-calculator": {
+    "title": "GST Calculator | Free Indian Goods & Services Tax Tool",
+    "description": "Easily calculate GST online. Add or remove GST from your product price, and view detailed CGST and SGST breakdowns instantly."
+  },
   "/hecs-debt-calculator": {
     "title": "HECS-HELP Debt Calculator Australia - Estimate Total Debt",
     "description": "Free HECS-HELP debt calculator for Australian university students. Estimate your total degree cost and projected indexation."
@@ -183,6 +191,10 @@
     "title": "Number to Words Converter | Write Numbers in English",
     "description": "Instantly convert any number into its written English word equivalent. Perfect for essays, cheques, and formal writing."
   },
+  "/online-timer": {
+    "title": "Online Stopwatch & Timer | Free Full Screen Timer",
+    "description": "Free online stopwatch and countdown timer. Perfect for studying, workouts, Pomodoro technique, and cooking. Easy to use in full screen."
+  },
   "/pass-mark-calculator": {
     "title": "Pass Mark Calculator — Exam Score Needed to Pass (Uni 2026)",
     "description": "Free pass mark calculator for Uni students: find the minimum final exam percentage needed to reach 50% overall and pass your unit."
@@ -203,6 +215,10 @@
     "title": "Pomodoro Study Timer | 25-Minute Focus Tool",
     "description": "Boost your productivity with our free Pomodoro study timer. Use the 25/5 minute technique to maintain focus and avoid university burnout."
   },
+  "/ppf-calculator": {
+    "title": "PPF Calculator | Public Provident Fund Returns",
+    "description": "Free online PPF Calculator to estimate your Public Provident Fund maturity value, total investment, and interest earned over 15 to 30 years."
+  },
   "/privacy-policy": {
     "title": "Privacy Policy | My Calculator Hub",
     "description": "Read how My Calculator Hub collects, uses, and protects your data while using our WAM and GPA conversion tools."
@@ -222,6 +238,10 @@
   "/sharehouse-rent-splitter": {
     "title": "Sharehouse Rent Splitter | Fair Room Calculator",
     "description": "Calculate a mathematically fair rent split for your sharehouse based on bedroom sizes and ensuites to avoid arguments with your roommates."
+  },
+  "/sip-calculator": {
+    "title": "SIP Calculator | Free Mutual Fund Return Calculator",
+    "description": "Calculate your mutual fund SIP returns online. Estimate your total wealth, invested amount, and projected returns over time using the power of compounding."
   },
   "/sleep-cycle-calculator": {
     "title": "Sleep Cycle Calculator | 90-Minute REM Wake Times",

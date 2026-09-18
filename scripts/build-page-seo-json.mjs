@@ -124,3 +124,21 @@ for (const match of categoryBlocks) {
 
 writeFileSync(outPath, `${JSON.stringify(seo, null, 2)}\n`);
 console.log(`Wrote ${Object.keys(seo).length} routes to ${outPath}`);
+
+// Generate sitemap.xml
+const sitemapPath = join(root, 'public/sitemap.xml');
+const BASE_URL = 'https://monashwamcalculator.com';
+const urls = Object.keys(seo)
+  .filter(route => !seo[route].noIndex)
+  .map(route => {
+    return `  <url>\n    <loc>${BASE_URL}${route}</loc>\n    <changefreq>weekly</changefreq>\n    <priority>${route === '/' ? '1.0' : '0.8'}</priority>\n  </url>`;
+  })
+  .join('\n');
+
+const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls}
+</urlset>`;
+
+writeFileSync(sitemapPath, sitemapContent);
+console.log(`Wrote sitemap.xml to ${sitemapPath}`);
