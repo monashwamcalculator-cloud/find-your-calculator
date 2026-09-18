@@ -112,6 +112,8 @@ const TimeZoneConverter = lazy(() => import('./pages/TimeZoneConverter'));
 const SipCalculator = lazy(() => import('./pages/SipCalculator'));
 const EmiCalculator = lazy(() => import('./pages/EmiCalculator'));
 const GstCalculator = lazy(() => import('./pages/GstCalculator'));
+const PpfCalculator = lazy(() => import('./pages/PpfCalculator'));
+const OnlineTimer = lazy(() => import('./pages/OnlineTimer'));
 
 function withSuspense(element: ReactElement) {
   return <Suspense fallback={<PageLoader />}>{element}</Suspense>;
@@ -213,6 +215,8 @@ function getPage(path: string) {
   if (path === '/sip-calculator') return withSuspense(<SipCalculator />);
   if (path === '/emi-calculator') return withSuspense(<EmiCalculator />);
   if (path === '/gst-calculator') return withSuspense(<GstCalculator />);
+  if (path === '/ppf-calculator') return withSuspense(<PpfCalculator />);
+  if (path === '/online-timer') return withSuspense(<OnlineTimer />);
   if (path === '/articles') return withSuspense(<Articles />);
   if (path.startsWith('/articles/category/')) {
     const categoryId = path.replace('/articles/category/', '');

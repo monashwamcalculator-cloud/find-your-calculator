@@ -280,6 +280,11 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
         description: 'Track your income, manage expenses, and see your net savings to manage your finances better.'
       },
       {
+        href: '/online-timer',
+        title: 'Online Stopwatch & Timer',
+        description: 'Free online stopwatch and countdown timer for studying, workouts, and cooking.'
+      },
+      {
         href: '/time-zone-converter',
         title: 'Time Zone Converter',
         description: 'Instantly convert times across global timezones (EST, PST, IST, AEST) for meetings and travel.'
@@ -512,6 +517,11 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
         href: '/gst-calculator',
         title: 'GST Calculator',
         description: 'Easily calculate Goods and Services Tax. Add or remove GST from your product price.'
+      },
+      {
+        href: '/ppf-calculator',
+        title: 'PPF Calculator',
+        description: 'Estimate your Public Provident Fund maturity value, total investment, and interest earned over 15 to 30 years.'
       },
       {
         href: '/commute-vs-rent-calculator',
