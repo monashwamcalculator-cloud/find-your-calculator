@@ -1,7 +1,7 @@
 {
   "/about-us": {
     "title": "About Us | My Calculator Hub — Who We Are",
-    "description": "Independent WAM calculator site by Saahil: 98 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
+    "description": "Independent WAM calculator site by Saahil: 99 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
   },
   "/academic-standing-calculator": {
     "title": "Academic Standing & Risk Calculator - Uni Progress Rules",
@@ -29,7 +29,7 @@
   },
   "/about-author": {
     "title": "About Saahil | Author — My Calculator Hub",
-    "description": "Meet Saahil, founder and editor of My Calculator Hub — 98 free tools and 32 student guides on WAM, GPA, and Australian university life.",
+    "description": "Meet Saahil, founder and editor of My Calculator Hub — 99 free tools and 32 student guides on WAM, GPA, and Australian university life.",
     "ogImageAlt": "Saahil, creator of WAM Calculator"
   },
   "/binary-to-text-converter": {
@@ -41,8 +41,8 @@
     "description": "Calculate the half-life of your coffee or energy drink. Find out when you will crash and when it is safe to go to sleep."
   },
   "/calculators": {
-    "title": "All Uni Calculators — 98 Free WAM & GPA Tools (2026)",
-    "description": "Browse 98 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
+    "title": "All Uni Calculators — 99 Free WAM & GPA Tools (2026)",
+    "description": "Browse 99 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
   },
   "/cgpa-to-gpa-calculator": {
     "title": "CGPA to GPA Calculator - 10-Point & Uni 4.0 (2026)",
@@ -182,6 +182,10 @@
   "/lecture-speed-calculator": {
     "title": "Lecture Speed Calculator | 1.5x and 2x Video Time",
     "description": "Calculate exactly how long it takes to watch a lecture or YouTube video at 1.25x, 1.5x, or 2x speed. See how much time you save."
+  },
+  "/love-calculator": {
+    "title": "Love Calculator - Test Your Match Percentage Online",
+    "description": "Free online Love Calculator. Enter two names and find out your compatibility percentage instantly with our fun love test algorithm."
   },
   "/mark-to-grade-calculator": {
     "title": "Uni Mark to Grade Calculator - HD, D, C, P Converter (2026)",

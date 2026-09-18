@@ -17,6 +17,11 @@ const SuppRepeatWam = lazy(() => import('./pages/SuppRepeatWam'));
 const SemesterWam = lazy(() => import('./pages/SemesterWam'));
 const UnitMark = lazy(() => import('./pages/UnitMark'));
 const WamProjection = lazy(() => import('./pages/WamProjection'));
+const LoveCalculator = lazy(() => import('./pages/LoveCalculator'));
+const DogAgeCalculator = lazy(() => import('./pages/DogAgeCalculator'));
+const IdealWeightCalculator = lazy(() => import('./pages/IdealWeightCalculator'));
+const ZodiacSignCalculator = lazy(() => import('./pages/ZodiacSignCalculator'));
+const BirthstoneCalculator = lazy(() => import('./pages/BirthstoneCalculator'));
 const UnitTarget = lazy(() => import('./pages/UnitTarget'));
 const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'));
 const TermsAndConditions = lazy(() => import('./pages/TermsAndConditions'));
@@ -218,6 +223,10 @@ function getPage(path: string) {
   if (path === '/ppf-calculator') return withSuspense(<PpfCalculator />);
   if (path === '/online-timer') return withSuspense(<OnlineTimer />);
   if (path === '/love-calculator') return withSuspense(<LoveCalculator />);
+  if (path === '/dog-age-calculator') return withSuspense(<DogAgeCalculator />);
+  if (path === '/ideal-weight-calculator') return withSuspense(<IdealWeightCalculator />);
+  if (path === '/zodiac-sign-calculator') return withSuspense(<ZodiacSignCalculator />);
+  if (path === '/birthstone-calculator') return withSuspense(<BirthstoneCalculator />);
   if (path === '/articles') return withSuspense(<Articles />);
   if (path.startsWith('/articles/category/')) {
     const categoryId = path.replace('/articles/category/', '');

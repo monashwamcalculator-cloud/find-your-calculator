@@ -347,7 +347,12 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
       {
         href: '/bmi-calculator',
         title: 'BMI Calculator',
-        description: 'Calculate your Body Mass Index and healthy weight range.'
+        description: 'Calculate your Body Mass Index (BMI) and check your weight category.'
+      },
+      {
+        href: '/ideal-weight-calculator',
+        title: 'Ideal Weight Calculator',
+        description: 'Find your perfect body weight based on your height using medical formulas.'
       },
       {
         href: '/tip-calculator',
@@ -472,6 +477,21 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
         href: '/love-calculator',
         title: 'Love Calculator',
         description: 'Test your match percentage online with our fun love test algorithm.'
+      },
+      {
+        href: '/zodiac-sign-calculator',
+        title: 'Zodiac Sign Calculator',
+        description: 'Find your astrological star sign instantly based on your birth date.'
+      },
+      {
+        href: '/birthstone-calculator',
+        title: 'Birthstone Calculator',
+        description: 'Discover your official birthstone, its color, and its traditional meaning.'
+      },
+      {
+        href: '/dog-age-calculator',
+        title: 'Dog Age Calculator',
+        description: 'Find out exactly how old your dog is in human years based on their size.'
       },
       {
         href: '/sharehouse-rent-splitter',
