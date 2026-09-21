@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Seo } from '../components/Seo';
-import { Header } from '../components/Header';
-import { CalculatorSectionWithInlineAds } from '../components/CalculatorSectionWithInlineAds';
+import Seo from '../components/Seo';
+import CalculatorSectionWithInlineAds from '../components/CalculatorSectionWithInlineAds';
 import { Gem } from 'lucide-react';
 
 const birthstones = [
@@ -40,8 +39,7 @@ export default function BirthstoneCalculator() {
         description="Free online Birthstone Calculator. Select your birth month to discover your official birthstone, its color, and its traditional meaning."
         canonicalPath="/birthstone-calculator"
       />
-      <Header />
-
+      
       <CalculatorSectionWithInlineAds path="/birthstone-calculator">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">

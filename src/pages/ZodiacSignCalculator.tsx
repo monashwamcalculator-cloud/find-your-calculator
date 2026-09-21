@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Seo } from '../components/Seo';
-import { Header } from '../components/Header';
-import { CalculatorSectionWithInlineAds } from '../components/CalculatorSectionWithInlineAds';
+import Seo from '../components/Seo';
+import CalculatorSectionWithInlineAds from '../components/CalculatorSectionWithInlineAds';
 import { Sparkles, Moon } from 'lucide-react';
 
 const zodiacSigns = [
@@ -54,8 +53,7 @@ export default function ZodiacSignCalculator() {
         description="Free online Zodiac Sign Calculator. Enter your birth date to instantly find your astrological star sign, element, and symbol."
         canonicalPath="/zodiac-sign-calculator"
       />
-      <Header />
-
+      
       <CalculatorSectionWithInlineAds path="/zodiac-sign-calculator">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">

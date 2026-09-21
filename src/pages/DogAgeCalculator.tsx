@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Seo } from '../components/Seo';
-import { Header } from '../components/Header';
-import { CalculatorSectionWithInlineAds } from '../components/CalculatorSectionWithInlineAds';
+import Seo from '../components/Seo';
+import CalculatorSectionWithInlineAds from '../components/CalculatorSectionWithInlineAds';
 import { Bone, Dog } from 'lucide-react';
 
 export default function DogAgeCalculator() {
@@ -42,8 +41,7 @@ export default function DogAgeCalculator() {
         description="Free online Dog Age Calculator. Find out exactly how old your dog is in human years based on their size and breed using the latest veterinary formula."
         canonicalPath="/dog-age-calculator"
       />
-      <Header />
-
+      
       <CalculatorSectionWithInlineAds path="/dog-age-calculator">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">

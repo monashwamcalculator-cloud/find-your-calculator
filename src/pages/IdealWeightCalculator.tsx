@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Seo } from '../components/Seo';
-import { Header } from '../components/Header';
-import { CalculatorSectionWithInlineAds } from '../components/CalculatorSectionWithInlineAds';
+import Seo from '../components/Seo';
+import CalculatorSectionWithInlineAds from '../components/CalculatorSectionWithInlineAds';
 import { Target, MoveVertical } from 'lucide-react';
 
 export default function IdealWeightCalculator() {
@@ -86,8 +85,7 @@ export default function IdealWeightCalculator() {
         description="Free online Ideal Weight Calculator. Calculate your healthy weight range based on your height and gender using Robinson, Miller, Devine, and Hamwi formulas."
         canonicalPath="/ideal-weight-calculator"
       />
-      <Header />
-
+      
       <CalculatorSectionWithInlineAds path="/ideal-weight-calculator">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">

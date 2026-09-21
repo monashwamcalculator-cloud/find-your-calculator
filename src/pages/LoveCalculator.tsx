@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Seo } from '../components/Seo';
-import { Header } from '../components/Header';
-import { CalculatorSectionWithInlineAds } from '../components/CalculatorSectionWithInlineAds';
+import Seo from '../components/Seo';
+import CalculatorSectionWithInlineAds from '../components/CalculatorSectionWithInlineAds';
 import { Heart, User, Sparkles } from 'lucide-react';
 
 export default function LoveCalculator() {
@@ -47,8 +46,7 @@ export default function LoveCalculator() {
         description="Free online Love Calculator. Enter two names and find out your compatibility percentage instantly with our fun love test algorithm."
         canonicalPath="/love-calculator"
       />
-      <Header />
-
+      
       <CalculatorSectionWithInlineAds path="/love-calculator">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">
