@@ -1,7 +1,7 @@
 {
   "/about-us": {
     "title": "About Us | My Calculator Hub — Who We Are",
-    "description": "Independent WAM calculator site by Saahil: 99 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
+    "description": "Independent WAM calculator site by Saahil: 103 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
   },
   "/academic-standing-calculator": {
     "title": "Academic Standing & Risk Calculator - Uni Progress Rules",
@@ -29,20 +29,24 @@
   },
   "/about-author": {
     "title": "About Saahil | Author — My Calculator Hub",
-    "description": "Meet Saahil, founder and editor of My Calculator Hub — 99 free tools and 32 student guides on WAM, GPA, and Australian university life.",
+    "description": "Meet Saahil, founder and editor of My Calculator Hub — 103 free tools and 32 student guides on WAM, GPA, and Australian university life.",
     "ogImageAlt": "Saahil, creator of WAM Calculator"
   },
   "/binary-to-text-converter": {
     "title": "Binary to Text Converter | Binary Translator",
     "description": "Encode plain text into binary code or decode binary back to English text. Free online binary translator tool."
   },
+  "/birthstone-calculator": {
+    "title": "Birthstone Calculator - Find Your Birth Stone by Month",
+    "description": "Free online Birthstone Calculator. Select your birth month to discover your official birthstone, its color, and its traditional meaning."
+  },
   "/caffeine-crash-calculator": {
     "title": "Caffeine Crash & Half-Life Calculator for Students",
     "description": "Calculate the half-life of your coffee or energy drink. Find out when you will crash and when it is safe to go to sleep."
   },
   "/calculators": {
-    "title": "All Uni Calculators — 99 Free WAM & GPA Tools (2026)",
-    "description": "Browse 99 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
+    "title": "All Uni Calculators — 103 Free WAM & GPA Tools (2026)",
+    "description": "Browse 103 free Uni calculators: WAM, GPA, CGPA, final grade, scholarship targets, honours, failed unit impact, exchange planning, and more."
   },
   "/cgpa-to-gpa-calculator": {
     "title": "CGPA to GPA Calculator - 10-Point & Uni 4.0 (2026)",
@@ -87,6 +91,10 @@
   "/disclaimer": {
     "title": "Disclaimer | My Calculator Hub",
     "description": "Read the My Calculator Hub disclaimer regarding academic accuracy and non-affiliation with the university."
+  },
+  "/dog-age-calculator": {
+    "title": "Dog Age Calculator - How Old is Your Dog in Human Years?",
+    "description": "Free online Dog Age Calculator. Find out exactly how old your dog is in human years based on their size and breed using the latest veterinary formula."
   },
   "/emi-calculator": {
     "title": "EMI Calculator | Personal, Home & Car Loan EMI",
@@ -174,6 +182,10 @@
     "title": "My Calculator Hub | 100+ Free Online Calculators",
     "description": "My Calculator Hub is your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators.",
     "ogImageAlt": "Monash university student using a laptop to calculate weighted average mark from unit marks and credit points"
+  },
+  "/ideal-weight-calculator": {
+    "title": "Ideal Weight Calculator - Find Your Perfect Body Weight",
+    "description": "Free online Ideal Weight Calculator. Calculate your healthy weight range based on your height and gender using Robinson, Miller, Devine, and Hamwi formulas."
   },
   "/late-penalty-calculator": {
     "title": "Late Penalty & Extension Calculator Australia - Mark Deductions",
@@ -360,6 +372,10 @@
   "/youth-allowance-estimator": {
     "title": "Youth Allowance Estimator | Centrelink Payment Calculator",
     "description": "Estimate your maximum Centrelink Youth Allowance or Austudy fortnightly payment based on your age and living situation."
+  },
+  "/zodiac-sign-calculator": {
+    "title": "Zodiac Sign Calculator - Find Your Star Sign",
+    "description": "Free online Zodiac Sign Calculator. Enter your birth date to instantly find your astrological star sign, element, and symbol."
   },
   "/articles/best-universities-in-australia": {
     "title": "Best Universities in Australia: Top 10 Ranked Guide (2026) | Monash WAM Calculator",

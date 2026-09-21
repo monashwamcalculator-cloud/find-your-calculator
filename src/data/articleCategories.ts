@@ -66,6 +66,8 @@ const SLUG_TO_CATEGORY: Record<string, string> = {
   'uni-credit-points-wam-explained': 'wam-fundamentals',
   'uni-year-1-wam-weighting-guide': 'wam-fundamentals',
   'what-is-a-good-wam': 'wam-fundamentals',
+  'how-to-increase-wam': 'wam-planning',
+  'wam-vs-gpa-difference': 'gpa-conversion',
   'uni-semester-wam-guide': 'wam-fundamentals',
   'uni-wam-milestones-guide': 'wam-fundamentals',
   'how-to-improve-wam-at-uni': 'wam-planning',

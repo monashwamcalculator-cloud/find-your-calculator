@@ -46,6 +46,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://monashwamcalculator.com/birthstone-calculator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://monashwamcalculator.com/caffeine-crash-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -107,6 +112,11 @@
   </url>
   <url>
     <loc>https://monashwamcalculator.com/disclaimer</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monashwamcalculator.com/dog-age-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -214,6 +224,11 @@
     <loc>https://monashwamcalculator.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://monashwamcalculator.com/ideal-weight-calculator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://monashwamcalculator.com/late-penalty-calculator</loc>
@@ -442,6 +457,11 @@
   </url>
   <url>
     <loc>https://monashwamcalculator.com/youth-allowance-estimator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monashwamcalculator.com/zodiac-sign-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

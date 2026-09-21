@@ -5,6 +5,9 @@ import { bestPharmacyUniversitiesAustraliaArticle } from './bestPharmacyUniversi
 import { bestUniversitiesAustraliaArticle } from './bestUniversitiesAustraliaArticle';
 import { bestComputerScienceUniversitiesAustraliaArticle } from './bestComputerScienceUniversitiesAustraliaArticle';
 import { bestLawUniversitiesAustraliaArticle } from './bestLawUniversitiesAustraliaArticle';
+import { whatIsAGoodWamArticle } from './whatIsAGoodWamArticle';
+import { howToIncreaseWamArticle } from './howToIncreaseWamArticle';
+import { wamVsGpaArticle } from './wamVsGpaArticle';
 
 export type ArticleContentBlock =
   | { type: 'paragraph'; text: string }
@@ -54,6 +57,9 @@ export interface ArticleData {
  * See .cursor/rules/article-publishing.mdc for full workflow.
  */
 const rawArticles: ArticleData[] = [
+  whatIsAGoodWamArticle,
+  howToIncreaseWamArticle,
+  wamVsGpaArticle,
   {
     slug: 'uni-university-australia',
     keyword: 'uni university australia',
