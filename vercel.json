@@ -1,16 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/wam-to-gpa-calculator",
-      "destination": "https://visitbest.in/wam-to-gpa-calculator/",
-      "permanent": true
-    },
-    {
-      "source": "/gpa-to-wam-calculator",
-      "destination": "https://visitbest.in/gpa-to-wam-calculator/",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
