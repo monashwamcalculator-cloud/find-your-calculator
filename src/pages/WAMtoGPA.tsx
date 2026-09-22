@@ -51,21 +51,23 @@ export default function WAMtoGPA() {
   return (
     <>
       <Seo
-        title="WAM to GPA Calculator - Free WAM to GPA Converter (2026)"
-        description="WAM to GPA conversion in one click. Free WAM to GPA calculator for Uni - convert to 4.0 & 7.0 GPA for scholarships, postgrad & overseas apps. No signup."
+        title="WAM to GPA Calculator | Convert Australian WAM to 4.0 & 7.0 GPA (2026)"
+        description="Free online WAM to GPA calculator for Australian university students. Instantly convert your Weighted Average Mark to a 4.0 or 7.0 GPA scale for graduate jobs, scholarships, and study abroad applications."
         canonicalPath="/wam-to-gpa-calculator"
         faqItems={wamToGpaFaqs}
       />
 
       <section className="bg-gradient-to-br from-blue-700 to-blue-900 text-white py-12 text-center px-4">
-        <h1 className="text-4xl font-bold mb-3">WAM to GPA Calculator</h1>
-        <p className="text-blue-100 max-w-xl mx-auto">
-          Free WAM to GPA conversion for the university students. Convert WAM to 4.0 and 7.0 GPA scales instantly.
+        <h1 className="text-4xl sm:text-5xl font-extrabold mb-4 tracking-tight">WAM to GPA Calculator</h1>
+        <p className="text-blue-100 max-w-2xl mx-auto text-lg leading-relaxed">
+          The most accurate <strong>WAM to GPA converter</strong> for Australian university students. 
+          Instantly convert your Weighted Average Mark (WAM) to the standard <strong>4.0 GPA scale</strong> for international applications, 
+          or the <strong>7.0 GPA scale</strong> used by domestic institutions.
         </p>
-        <p className="text-blue-100/95 max-w-xl mx-auto text-sm mt-4 leading-relaxed">
-          Need your overall WAM from units first? Use the{' '}
+        <p className="text-blue-200 max-w-xl mx-auto text-sm mt-5 bg-blue-800/30 py-2 px-4 rounded-full border border-blue-600/50">
+          Need to calculate your overall WAM first? Use our{' '}
           <a href={absoluteUrl(wamToGpaHome.path)} className={HERO_INLINE_LINK_CLASS}>{wamToGpaHome.keyword}</a>
-          , then return here. Planning one subject&apos;s exam weighting? Open the{' '}
+          , then return here. For exam targets, use the{' '}
           <a href={absoluteUrl(wamToGpaFinal.path)} className={HERO_INLINE_LINK_CLASS}>{wamToGpaFinal.keyword}</a>.
         </p>
       </section>
@@ -84,54 +86,23 @@ export default function WAMtoGPA() {
         </div>
 
         <div className="mt-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-6">
-          <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-3">
-            WAM to GPA: example bands
+          <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
+            Why Australian Universities Use WAM Over GPA
           </h2>
           <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 leading-relaxed">
-            Uni reports WAM as a percentage (0–100). Many applications ask for GPA on a 4.0 or 7.0 scale instead.
-            The table below shows typical planning ranges — use the calculator above for your exact WAM.
+            In Australia, most major universities (such as Monash University, University of Melbourne, and UNSW) rely primarily on a Weighted Average Mark (WAM) rather than a GPA. A WAM is far more precise because it averages your exact percentage scores (e.g., 74%) rather than grouping them into broad GPA bands (e.g., 3.0).
           </p>
-          <div className="overflow-x-auto">
-            <table className="w-full text-sm">
-              <thead>
-                <tr className="bg-gray-50 dark:bg-gray-700">
-                  <th className="text-left px-3 py-2 font-semibold text-gray-600 dark:text-gray-300 rounded-tl-lg">
-                    Uni band
-                  </th>
-                  <th className="text-left px-3 py-2 font-semibold text-gray-600 dark:text-gray-300">WAM range</th>
-                  <th className="text-left px-3 py-2 font-semibold text-gray-600 dark:text-gray-300 rounded-tr-lg">
-                    Typical use
-                  </th>
-                </tr>
-              </thead>
-              <tbody className="divide-y divide-gray-100 dark:divide-gray-700 text-gray-700 dark:text-gray-300">
-                <tr>
-                  <td className="px-3 py-2 font-medium">High distinction (HD)</td>
-                  <td className="px-3 py-2">80–100</td>
-                  <td className="px-3 py-2">Honours, competitive scholarships</td>
-                </tr>
-                <tr>
-                  <td className="px-3 py-2 font-medium">Distinction (D)</td>
-                  <td className="px-3 py-2">70–79</td>
-                  <td className="px-3 py-2">Strong postgraduate applications</td>
-                </tr>
-                <tr>
-                  <td className="px-3 py-2 font-medium">Credit (C)</td>
-                  <td className="px-3 py-2">60–69</td>
-                  <td className="px-3 py-2">Solid progression, many internships</td>
-                </tr>
-                <tr>
-                  <td className="px-3 py-2 font-medium">Pass (P)</td>
-                  <td className="px-3 py-2">50–59</td>
-                  <td className="px-3 py-2">Minimum satisfactory progress</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          <p className="text-xs text-gray-500 dark:text-gray-500 mt-4">
-            Example: a WAM of 75 often maps near distinction-level performance. Enter 75 in the converter to see
-            estimated 4.0 and 7.0 GPA values for your application.
+          <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 leading-relaxed">
+            However, when applying for international opportunities—such as studying abroad in the USA or Canada, or applying to global graduate programs—you will almost certainly be asked to provide your GPA on a 4.0 scale. This calculator bridges that gap by applying standard Australian conversion metrics to your WAM.
           </p>
+          
+          <h3 className="text-lg font-bold text-gray-900 dark:text-white mt-6 mb-3">
+            Understanding the 4.0 vs 7.0 GPA Scales
+          </h3>
+          <ul className="list-disc list-inside space-y-3 text-sm text-gray-600 dark:text-gray-400 mb-4">
+            <li><strong>The 4.0 Scale:</strong> The global standard used predominantly in North America. A High Distinction (80%+) maps to a perfect 4.0, while a Distinction maps to a 3.0.</li>
+            <li><strong>The 7.0 Scale:</strong> Used domestically by some Australian institutions (e.g., University of Queensland) and medical admissions boards (GEMSAS). A High Distinction maps to a 7.0, and a Distinction maps to a 6.0.</li>
+          </ul>
         </div>
       </CalculatorSectionWithInlineAds>
 
