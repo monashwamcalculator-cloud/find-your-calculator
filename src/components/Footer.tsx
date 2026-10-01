@@ -106,6 +106,7 @@ export default function Footer() {
 
             <FooterColumn title="Resources">
               <FooterLinkList>
+                                <li><a href="https://www.agecalculatorlab.com/" target="_blank" rel="noopener noreferrer" className="footer-link">Age Calculator Lab &nearr;</a></li>
                 <FooterLink href="/calculators">Calculators hub</FooterLink>
                 <FooterLink href="/articles">Articles hub</FooterLink>
                 {ARTICLE_CATEGORIES.map(category => (

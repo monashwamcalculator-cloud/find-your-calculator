@@ -3,6 +3,7 @@ import OneSignal from 'react-onesignal';
 import { useDarkMode } from './hooks/useDarkMode';
 import Navbar from './components/Navbar';
 import TopSchoolsBanner from './components/TopSchoolsBanner';
+import AgeCalculatorBanner from './components/AgeCalculatorBanner';
 import Footer from './components/Footer';
 import CookieConsent from './components/CookieConsent';
 import PageLoader from './components/PageLoader';
