@@ -273,6 +273,7 @@ export default function App() {
       <main id="main-content" className="flex-1" tabIndex={-1}>
         {getPage(path)}
       </main>
+      <AgeCalculatorBanner />
       <Footer />
       <CookieConsent />
     </div>
