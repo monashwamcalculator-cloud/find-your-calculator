@@ -472,32 +472,32 @@ export const CALCULATOR_CATEGORIES: CalculatorCategory[] = [
     id: 'lifestyle-finance',
     title: 'Student Lifestyle & Finance',
     description: 'Calculators for rent, student loans, and university survival.',
-    links: [
+    links: [/* 
       {
         href: '/love-calculator',
         title: 'Love Calculator',
         description: 'Test your match percentage online with our fun love test algorithm.'
-      },
+      }, *//* 
       {
         href: '/zodiac-sign-calculator',
         title: 'Zodiac Sign Calculator',
         description: 'Find your astrological star sign instantly based on your birth date.'
-      },
+      }, *//* 
       {
         href: '/birthstone-calculator',
         title: 'Birthstone Calculator',
         description: 'Discover your official birthstone, its color, and its traditional meaning.'
-      },
+      }, *//* 
       {
         href: '/dog-age-calculator',
         title: 'Dog Age Calculator',
         description: 'Find out exactly how old your dog is in human years based on their size.'
-      },
+      }, *//* 
       {
         href: '/sharehouse-rent-splitter',
         title: 'Sharehouse Rent Splitter',
         description: 'Split rent fairly based on bedroom sizes and ensuites.'
-      },
+      }, */
       {
         href: '/hecs-repayment-time-calculator',
         title: 'HECS Repayment Time',

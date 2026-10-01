@@ -36,10 +36,6 @@
     "title": "Binary to Text Converter | Binary Translator",
     "description": "Encode plain text into binary code or decode binary back to English text. Free online binary translator tool."
   },
-  "/birthstone-calculator": {
-    "title": "Birthstone Calculator - Find Your Birth Stone by Month",
-    "description": "Free online Birthstone Calculator. Select your birth month to discover your official birthstone, its color, and its traditional meaning."
-  },
   "/caffeine-crash-calculator": {
     "title": "Caffeine Crash & Half-Life Calculator for Students",
     "description": "Calculate the half-life of your coffee or energy drink. Find out when you will crash and when it is safe to go to sleep."
@@ -91,10 +87,6 @@
   "/disclaimer": {
     "title": "Disclaimer | My Calculator Hub",
     "description": "Read the My Calculator Hub disclaimer regarding academic accuracy and non-affiliation with the university."
-  },
-  "/dog-age-calculator": {
-    "title": "Dog Age Calculator - How Old is Your Dog in Human Years?",
-    "description": "Free online Dog Age Calculator. Find out exactly how old your dog is in human years based on their size and breed using the latest veterinary formula."
   },
   "/emi-calculator": {
     "title": "EMI Calculator | Personal, Home & Car Loan EMI",
@@ -195,10 +187,6 @@
     "title": "Lecture Speed Calculator | 1.5x and 2x Video Time",
     "description": "Calculate exactly how long it takes to watch a lecture or YouTube video at 1.25x, 1.5x, or 2x speed. See how much time you save."
   },
-  "/love-calculator": {
-    "title": "Love Calculator - Test Your Match Percentage Online",
-    "description": "Free online Love Calculator. Enter two names and find out your compatibility percentage instantly with our fun love test algorithm."
-  },
   "/mark-to-grade-calculator": {
     "title": "Uni Mark to Grade Calculator - HD, D, C, P Converter (2026)",
     "description": "Free Uni mark to grade calculator: convert any percentage to HD, D, C, P or N instantly. Uni grading scale with GPA bands."
@@ -250,10 +238,6 @@
   "/semester-wam-calculator": {
     "title": "Semester WAM Calculator - Uni Semester Average (2026)",
     "description": "Free semester WAM calculator for Uni students: enter this semester's unit marks and credit points to get your weighted semester average instantly."
-  },
-  "/sharehouse-rent-splitter": {
-    "title": "Sharehouse Rent Splitter | Fair Room Calculator",
-    "description": "Calculate a mathematically fair rent split for your sharehouse based on bedroom sizes and ensuites to avoid arguments with your roommates."
   },
   "/sip-calculator": {
     "title": "SIP Calculator | Free Mutual Fund Return Calculator",
@@ -372,10 +356,6 @@
   "/youth-allowance-estimator": {
     "title": "Youth Allowance Estimator | Centrelink Payment Calculator",
     "description": "Estimate your maximum Centrelink Youth Allowance or Austudy fortnightly payment based on your age and living situation."
-  },
-  "/zodiac-sign-calculator": {
-    "title": "Zodiac Sign Calculator - Find Your Star Sign",
-    "description": "Free online Zodiac Sign Calculator. Enter your birth date to instantly find your astrological star sign, element, and symbol."
   },
   "/articles/best-universities-in-australia": {
     "title": "Best Universities in Australia: Top 10 Ranked Guide (2026) | Monash WAM Calculator",

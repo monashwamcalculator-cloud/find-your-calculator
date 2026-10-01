@@ -46,11 +46,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monashwamcalculator.com/birthstone-calculator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://monashwamcalculator.com/caffeine-crash-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -112,11 +107,6 @@
   </url>
   <url>
     <loc>https://monashwamcalculator.com/disclaimer</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monashwamcalculator.com/dog-age-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -241,11 +231,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monashwamcalculator.com/love-calculator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://monashwamcalculator.com/mark-to-grade-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -307,11 +292,6 @@
   </url>
   <url>
     <loc>https://monashwamcalculator.com/semester-wam-calculator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monashwamcalculator.com/sharehouse-rent-splitter</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -457,11 +437,6 @@
   </url>
   <url>
     <loc>https://monashwamcalculator.com/youth-allowance-estimator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monashwamcalculator.com/zodiac-sign-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
