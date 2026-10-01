@@ -2,6 +2,8 @@ import Seo from '../components/Seo';
 import RelatedCalculators from '../components/RelatedCalculators';
 import FAQSection from '../components/FAQSection';
 import WAMCalculator from '../components/WAMCalculator';
+import CalculatorSEOSection from '../components/CalculatorSEOSection';
+import { RICH_SEO_DATA } from '../data/richSeoData';
 
 const faqs = [
   {
@@ -45,7 +47,7 @@ export default function WAMCalculatorPage() {
 
 
         <div className="max-w-4xl mx-auto">
-          <FAQSection items={faqs} title="Frequently Asked Questions" />
+          <CalculatorSEOSection seoData={RICH_SEO_DATA['/wam-calculator']} />
         </div>
 
         <div className="mt-16">
