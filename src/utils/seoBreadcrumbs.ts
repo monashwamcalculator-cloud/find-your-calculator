@@ -1,6 +1,6 @@
 import { getArticleCategoryById } from '../data/articleCategories';
 
-const BASE_URL = 'https://mycalculatorhub.pro';
+const BASE_URL = 'https://monashwamcalculator.com';
 
 export interface BreadcrumbCrumb {
   name: string;

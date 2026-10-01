@@ -6,7 +6,7 @@ import CalculatorPageGuide from '../components/CalculatorPageGuide';
 import RelatedCalculators from '../components/RelatedCalculators';
 
 export default function QRCodeGenerator() {
-  const [text, setText] = useState('https://mycalculatorhub.pro');
+  const [text, setText] = useState('https://monashwamcalculator.com');
   const [size, setSize] = useState('250');
 
   const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&data=${encodeURIComponent(text)}`;

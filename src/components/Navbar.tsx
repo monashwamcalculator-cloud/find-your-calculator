@@ -36,9 +36,9 @@ export default function Navbar({ dark, toggleDark }: NavbarProps) {
   return (
     <nav className="sticky top-0 z-50 bg-white/95 dark:bg-gray-900/95 backdrop-blur border-b border-gray-200 dark:border-gray-700 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
-        <a href="/" className="flex items-center gap-2.5 font-bold text-primary-600 dark:text-primary-400 text-lg" title="My Calculator Hub">
+        <a href="/" className="flex items-center gap-2.5 font-bold text-primary-600 dark:text-primary-400 text-lg" title="Monash Wam Calculator">
           <SiteLogo size="md" />
-          <span>My Calculator Hub</span>
+          <span>Monash Wam Calculator</span>
         </a>
 
         {/* Desktop nav — one hover dropdown per calculator group */}

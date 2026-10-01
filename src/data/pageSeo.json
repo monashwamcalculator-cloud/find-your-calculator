@@ -1,6 +1,6 @@
 {
   "/about-us": {
-    "title": "About Us | My Calculator Hub — Who We Are",
+    "title": "About Us | Monash Wam Calculator — Who We Are",
     "description": "Independent WAM calculator site by Saahil: 103 free tools, 32 student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers."
   },
   "/academic-standing-calculator": {
@@ -28,8 +28,8 @@
     "description": "Calculate how many classes you can skip while maintaining your target university attendance percentage (e.g., 75% or 80%)."
   },
   "/about-author": {
-    "title": "About Saahil | Author — My Calculator Hub",
-    "description": "Meet Saahil, founder and editor of My Calculator Hub — 103 free tools and 32 student guides on WAM, GPA, and Australian university life.",
+    "title": "About Saahil | Author — Monash Wam Calculator",
+    "description": "Meet Saahil, founder and editor of Monash Wam Calculator — 103 free tools and 32 student guides on WAM, GPA, and Australian university life.",
     "ogImageAlt": "Saahil, creator of WAM Calculator"
   },
   "/binary-to-text-converter": {
@@ -85,8 +85,8 @@
     "description": "Count words, characters, sentences, and paragraphs. Accurately calculate presentation speaking time based on standard words-per-minute."
   },
   "/disclaimer": {
-    "title": "Disclaimer | My Calculator Hub",
-    "description": "Read the My Calculator Hub disclaimer regarding academic accuracy and non-affiliation with the university."
+    "title": "Disclaimer | Monash Wam Calculator",
+    "description": "Read the Monash Wam Calculator disclaimer regarding academic accuracy and non-affiliation with the university."
   },
   "/emi-calculator": {
     "title": "EMI Calculator | Personal, Home & Car Loan EMI",
@@ -171,8 +171,8 @@
     "description": "Free high school GPA calculator: compute weighted or unweighted GPA from course grades and credits for US-style transcripts."
   },
   "/": {
-    "title": "My Calculator Hub | 100+ Free Online Calculators",
-    "description": "My Calculator Hub is your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators.",
+    "title": "Monash Wam Calculator | 100+ Free Online Calculators",
+    "description": "Monash Wam Calculator is your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators.",
     "ogImageAlt": "Monash university student using a laptop to calculate weighted average mark from unit marks and credit points"
   },
   "/ideal-weight-calculator": {
@@ -224,8 +224,8 @@
     "description": "Free online PPF Calculator to estimate your Public Provident Fund maturity value, total investment, and interest earned over 15 to 30 years."
   },
   "/privacy-policy": {
-    "title": "Privacy Policy | My Calculator Hub",
-    "description": "Read how My Calculator Hub collects, uses, and protects your data while using our WAM and GPA conversion tools."
+    "title": "Privacy Policy | Monash Wam Calculator",
+    "description": "Read how Monash Wam Calculator collects, uses, and protects your data while using our WAM and GPA conversion tools."
   },
   "/random-number-generator": {
     "title": "Random Number Generator | Free Number Picker",
@@ -272,8 +272,8 @@
     "description": "Compare Uni supplementary pass (50% cap) vs repeating a failed unit. Free calculator shows WAM impact for fail recovery planning."
   },
   "/terms-and-conditions": {
-    "title": "Terms and Conditions | My Calculator Hub",
-    "description": "Review the terms for using My Calculator Hub, including acceptable use, intellectual property, and limitation of liability."
+    "title": "Terms and Conditions | Monash Wam Calculator",
+    "description": "Review the terms for using Monash Wam Calculator, including acceptable use, intellectual property, and limitation of liability."
   },
   "/textbook-reading-time-calculator": {
     "title": "Textbook Reading Time Calculator | Study Planner",

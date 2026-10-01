@@ -1,7 +1,7 @@
 export const HOME_FAQS = [
   {
     question: 'Are these calculators completely free?',
-    answer: 'Yes! All calculators on My Calculator Hub are 100% free to use. There are no hidden fees, paywalls, or subscriptions required.',
+    answer: 'Yes! All calculators on Monash Wam Calculator are 100% free to use. There are no hidden fees, paywalls, or subscriptions required.',
   },
   {
     question: 'Do I need to create an account?',

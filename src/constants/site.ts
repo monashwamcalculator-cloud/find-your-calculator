@@ -1,4 +1,4 @@
-export const SITE_ORIGIN = 'https://mycalculatorhub.pro';
+export const SITE_ORIGIN = 'https://monashwamcalculator.com';
 
 export const SITE_LOGO = '/logo.png';
 export const SITE_LOGO_ALT = 'WAM Calculator — MWC logo';

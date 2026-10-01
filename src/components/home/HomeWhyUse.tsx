@@ -18,7 +18,7 @@ export default function HomeWhyUse() {
             <p className="home-eyebrow mb-3">Why Choose Us</p>
             <h2 className="home-h2 mb-6">Built for speed, accuracy, and ease of use.</h2>
             <p className="home-lead mb-10">
-              My Calculator Hub is designed to be your one-stop destination for all daily calculations.
+              Monash Wam Calculator is designed to be your one-stop destination for all daily calculations.
             </p>
             <div className="space-y-6">
               {reasons.map((item) => (
@@ -39,7 +39,7 @@ export default function HomeWhyUse() {
           <div className="lg:pl-10 home-animate-in" style={{ animationDelay: '200ms' }}>
             <HomeImage
               image={HOME_IMAGES.wamCalculator}
-              alt="My Calculator Hub tools"
+              alt="Monash Wam Calculator tools"
               wrapperClassName="aspect-square lg:aspect-auto lg:h-[500px]"
               className="object-cover"
             />

@@ -37,8 +37,8 @@ export default function PrivacyPolicy() {
   return (
     <>
       <Seo
-        title="Privacy Policy | My Calculator Hub"
-        description="Read how My Calculator Hub collects, uses, and protects your data while using our WAM and GPA conversion tools."
+        title="Privacy Policy | Monash Wam Calculator"
+        description="Read how Monash Wam Calculator collects, uses, and protects your data while using our WAM and GPA conversion tools."
         canonicalPath="/privacy-policy"
         faqItems={privacyFaqs}
       />
@@ -49,7 +49,7 @@ export default function PrivacyPolicy() {
 
         <div className="space-y-6 text-sm leading-relaxed text-gray-700 dark:text-gray-300">
           <p>
-            My Calculator Hub is designed to be privacy-friendly. The calculator works directly in your browser, and
+            Monash Wam Calculator is designed to be privacy-friendly. The calculator works directly in your browser, and
             we do not require account sign-up to access core features. Please read this policy alongside our{' '}
             <a href={absoluteUrl(privacyTerms.path)} className={INLINE_LINK_CLASS}>{privacyTerms.keyword}</a>
             {' '}and{' '}
@@ -114,7 +114,7 @@ export default function PrivacyPolicy() {
           <div>
             <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">4. Advertising &amp; Affiliates</h2>
             <p>
-              My Calculator Hub may display advertisements from partners such as Google AdSense when that account is
+              Monash Wam Calculator may display advertisements from partners such as Google AdSense when that account is
               approved and enabled to student-relevant tools (for example writing aids,
               VPN, or cloud storage) via networks such as Commission Factory or Awin. Analytics partners may track
               referrals using cookies or similar technologies after you click a tracked link.

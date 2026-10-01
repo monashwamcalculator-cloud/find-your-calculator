@@ -36,7 +36,7 @@ export default function Articles() {
           <div className="rounded-2xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6 md:p-8 shadow-sm">
             <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-3">What You Will Find Here</h2>
             <p>
-              MyCalculatorHub.pro publishes {articles.length} long-form guides written for students who need
+              monashwamcalculator.com publishes {articles.length} long-form guides written for students who need
               more than a one-line FAQ. Each article explains Uni grading concepts in plain language — credit
               points, year-level weighting, distinction average, supplementary exams, exchange grades — and links to
               the free calculator that matches the topic. Guides typically run 800–1,600 words with worked examples,

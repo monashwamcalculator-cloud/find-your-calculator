@@ -27,8 +27,8 @@ export default function Disclaimer() {
   return (
     <>
       <Seo
-        title="Disclaimer | My Calculator Hub"
-        description="Read the My Calculator Hub disclaimer regarding academic accuracy and non-affiliation with the university."
+        title="Disclaimer | Monash Wam Calculator"
+        description="Read the Monash Wam Calculator disclaimer regarding academic accuracy and non-affiliation with the university."
         canonicalPath="/disclaimer"
         faqItems={disclaimerFaqs}
       />
@@ -39,7 +39,7 @@ export default function Disclaimer() {
 
         <div className="space-y-6 text-sm leading-relaxed text-gray-700 dark:text-gray-300">
           <p>
-            My Calculator Hub is an independent educational tool. It is not an official the university website
+            Monash Wam Calculator is an independent educational tool. It is not an official the university website
             and is not endorsed by the university. Governance pages on this site include our{' '}
             <a href={absoluteUrl(disclaimerPrivacy.path)} className={INLINE_LINK_CLASS}>{disclaimerPrivacy.keyword}</a>
             {' '}and{' '}

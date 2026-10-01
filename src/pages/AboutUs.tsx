@@ -17,7 +17,7 @@ const ARTICLE_COUNT = articles.length;
 
 const aboutFaqs = [
   {
-    question: 'Who should use My Calculator Hub?',
+    question: 'Who should use Monash Wam Calculator?',
     answer:
       'the university coursework students who need WAM, GPA, semester averages, exam targets, honours cutoffs, scholarship planning bands, or fail-recovery modelling. The tools are built around Uni grading rules — Year 1 half-weighting, credit-point weighting, and official 4.0 GPA bands.',
   },
@@ -26,7 +26,7 @@ const aboutFaqs = [
     answer: `${ARTICLE_AUTHOR.name} produces editorial guides and calculator documentation. Content is written for clarity, checked against Uni grading references, and updated when student questions or policy wording changes — not auto-generated filler.`,
   },
   {
-    question: 'Is My Calculator Hub affiliated with the university?',
+    question: 'Is Monash Wam Calculator affiliated with the university?',
     answer:
       'No. This is an independent student resource. We are not endorsed by the university, any faculty, or admissions office. Always verify official outcomes on WES and your transcript.',
   },
@@ -57,7 +57,7 @@ const aboutFaqs = [
 ];
 
 const popularLinks = [
-  { label: 'My Calculator Hub', href: '/' },
+  { label: 'Monash Wam Calculator', href: '/' },
   { label: 'WAM to GPA', href: '/wam-to-gpa-calculator' },
   { label: 'Semester WAM', href: '/semester-wam-calculator' },
   { label: 'WAM Target', href: '/wam-target-calculator' },
@@ -105,21 +105,21 @@ export default function AboutUs() {
   return (
     <>
       <Seo
-        title="About Us | My Calculator Hub — Who We Are"
+        title="About Us | Monash Wam Calculator — Who We Are"
         description={`Independent WAM calculator site by ${ARTICLE_AUTHOR.name}: ${CALCULATOR_COUNT} free tools, ${ARTICLE_COUNT} student guides, Uni-specific formulas, editorial standards, and honest planning disclaimers.`}
         canonicalPath="/about-us"
         faqItems={aboutFaqs}
       />
 
       <section className="max-w-3xl mx-auto px-4 pt-8 pb-4">
-        <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-3">About My Calculator Hub</h1>
+        <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-3">About Monash Wam Calculator</h1>
         <p className="text-sm text-gray-500 dark:text-gray-400 mb-6">
           Independent student resource · Not affiliated with the university · Updated July 2026
         </p>
 
         <div className="space-y-6 text-sm leading-relaxed text-gray-700 dark:text-gray-300">
           <p className="text-base">
-            MyCalculatorHub.com helps Uni students calculate Weighted Average Mark (WAM), plan semester targets,
+            MonashWamCalculator.com helps Uni students calculate Weighted Average Mark (WAM), plan semester targets,
             and understand how grades affect honours, scholarships, and applications — with{' '}
             <strong className="text-gray-900 dark:text-white">{CALCULATOR_COUNT} free calculators</strong> and{' '}
             <strong className="text-gray-900 dark:text-white">{ARTICLE_COUNT} in-depth guides</strong>. We combine fast

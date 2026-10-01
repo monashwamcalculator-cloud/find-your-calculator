@@ -9,7 +9,7 @@ import { CALCULATOR_COUNT } from '../data/calculatorCatalog';
 
 const authorFaqs = [
   {
-    question: 'Who writes articles on My Calculator Hub?',
+    question: 'Who writes articles on Monash Wam Calculator?',
     answer: `${ARTICLE_AUTHOR.name} writes and maintains editorial guides and calculator documentation on this site.`,
   },
   {
@@ -35,8 +35,8 @@ export default function Author() {
   return (
     <>
       <Seo
-        title={`About ${ARTICLE_AUTHOR.name} | Author — My Calculator Hub`}
-        description={`Meet ${ARTICLE_AUTHOR.name}, founder and editor of My Calculator Hub — ${CALCULATOR_COUNT} free tools and ${articleCount} student guides on WAM, GPA, and Australian university life.`}
+        title={`About ${ARTICLE_AUTHOR.name} | Author — Monash Wam Calculator`}
+        description={`Meet ${ARTICLE_AUTHOR.name}, founder and editor of Monash Wam Calculator — ${CALCULATOR_COUNT} free tools and ${articleCount} student guides on WAM, GPA, and Australian university life.`}
         canonicalPath="/about-author"
         faqItems={authorFaqs}
         ogImage={ARTICLE_AUTHOR.avatarWebp}

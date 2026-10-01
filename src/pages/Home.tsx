@@ -18,8 +18,8 @@ export default function Home() {
   return (
     <>
       <Seo
-        title="My Calculator Hub | 100+ Free Online Calculators"
-        description="My Calculator Hub is your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators."
+        title="Monash Wam Calculator | 100+ Free Online Calculators"
+        description="Monash Wam Calculator is your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators."
         canonicalPath="/"
         faqItems={HOME_FAQS}
         ogImage={HOME_OG_IMAGE}

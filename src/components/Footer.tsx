@@ -63,10 +63,10 @@ export default function Footer() {
           <div className="lg:col-span-4 xl:col-span-3">
             <div className="inline-flex items-center gap-2.5 text-lg font-bold text-white">
               <SiteLogo size="lg" />
-              <span>My Calculator Hub</span>
+              <span>Monash Wam Calculator</span>
             </div>
             <p className="footer-brand-copy mt-4">
-              My Calculator Hub — your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators designed to make your life easier.
+              Monash Wam Calculator — your go-to destination for everyday calculators. From finance and health to math and utilities, we have over 100+ free online calculators designed to make your life easier.
             </p>
 
             <div className="mt-5 flex flex-wrap gap-2">
@@ -147,7 +147,7 @@ export default function Footer() {
           <p className="text-[11px] text-gray-500 max-w-2xl mx-auto mb-2 leading-relaxed">
             
           </p>
-          <p className="text-xs text-gray-500">&copy; 2026 MyCalculatorHub.pro. All rights reserved.</p>
+          <p className="text-xs text-gray-500">&copy; 2026 monashwamcalculator.com. All rights reserved.</p>
         </div>
       </div>
     </footer>
